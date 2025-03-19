@@ -345,14 +345,17 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Scripts/Conditionals.cs"
-"Assets/Scripts/For_Loops.cs"
-"Assets/Scripts/lteration.cs"
-"Assets/Scripts/Print.cs"
+"Assets/Scripts/Part 1/Conditionals.cs"
+"Assets/Scripts/Part 1/For_Loops.cs"
+"Assets/Scripts/Part 1/lteration.cs"
+"Assets/Scripts/Part 1/Print.cs"
+"Assets/Scripts/Part 1/Variable.cs"
+"Assets/Scripts/Part 2/Birthday.cs"
+"Assets/Scripts/Part 2/Evens.cs"
+"Assets/Scripts/Part 2/PlayerHealth2.cs"
 "Assets/Scripts/TIY/Addition.cs"
 "Assets/Scripts/TIY/HelloWorldScript.cs"
 "Assets/Scripts/TIY/PlayerHealth.cs"
-"Assets/Scripts/Variable.cs"
 -langversion:9.0
 
 /deterministic
