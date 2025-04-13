@@ -353,6 +353,18 @@
 "Assets/Scripts/Hour8/CameraControl.cs"
 "Assets/Scripts/Hour8/Light L;On A;Off/LightToggle.cs"
 "Assets/Scripts/Hour8/Mouse Down.cs"
+"Assets/Scripts/Hour8_P2/Assignment/PlayerHealth.cs"
+"Assets/Scripts/Hour8_P2/Assignment/Potion.cs"
+"Assets/Scripts/Hour8_P2/Demo/Demo_MouseButton.cs"
+"Assets/Scripts/Hour8_P2/Demo/Demo_WASD.cs"
+"Assets/Scripts/Hour8_P2/Demo/Functions.cs"
+"Assets/Scripts/Hour8_P2/Demo/KeyInput.cs"
+"Assets/Scripts/Hour8_P2/Demo/LocalConponents.cs"
+"Assets/Scripts/Hour8_P2/Demo/MouseMovement.cs"
+"Assets/Scripts/Hour8_P2/Demo/ReturnFunction.cs"
+"Assets/Scripts/Hour8_P2/Demo/Translate.cs"
+"Assets/Scripts/Hour_21/AudioScrit.cs"
+"Assets/Scripts/Hour_21/WASD.cs"
 "Assets/Scripts/Transform.cs"
 -langversion:9.0
 
