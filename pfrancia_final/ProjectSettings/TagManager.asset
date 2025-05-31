@@ -9,6 +9,7 @@ TagManager:
   - Orange
   - Red
   - Blue
+  - Robot
   layers:
   - Default
   - TransparentFX

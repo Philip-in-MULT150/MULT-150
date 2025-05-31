@@ -6,7 +6,7 @@ public class StationaryDoughnut : MonoBehaviour
 {
 	void OnTriggerEnter(Collider other)
 	{
-		if (other.tag == "Player")
+		if (other.tag == "Robot")
 		{
 			Debug.Log("Doughnut collected!");
 			Destroy(gameObject);
